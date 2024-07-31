@@ -11,6 +11,6 @@ public class HelloWorldController {
 
     @GetMapping(value = "/")
     public String get() {
-        return "Hello World! This is my website (Working for Training)";
+        return "Hello World! This is my website (learning new concepts #001)";
     }
 }
